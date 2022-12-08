@@ -1,2 +1,2 @@
 def test_example():
-    assert 5 > 9
+    assert 5 < 9
